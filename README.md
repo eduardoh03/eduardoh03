@@ -1,25 +1,47 @@
-## 👋 Hello! Welcome to my Github profile.
-### My name is Eduardo Henrique!
+# 💫 About Me:
+- 🚀 Desenvolvedor Backend com experiência em Python, TypeScript e Java.<br>- 🌱 Atualmente estou aprendendo sobre Segurança Cibernética.<br>- 💼 Trabalho na **BigDataHealth** como **Programador Backend**, atuando em diversos projetos.<br>- 🎓 Formado em **Engenharia de Software** em 2022.<br>
 
-<div>
-<a href="https://github.com/eduardoh03">
+## Experiência Profissional<br>
+### **BigDataHealth** - Programador Backend<br>
+**Período**: 28/01/24 - Atualmente<br>
+**Descrição**: Desenvolvimento e manutenção de sistemas backend para diversos projetos, utilizando tecnologias como Python (Django, Flask), TypeScript (NestJS) e Java (Spring Boot).<br>
+**Principais responsabilidades**:<br>  - Projetar e implementar APIs RESTful.<br> 
+- Integração com bancos de dados relacionais e não relacionais.<br>
+- Desenvolvimento de microsserviços.<br>
+- Colaboração com equipes de frontend e DevOps para entrega contínua.<br><br><br>
+## Interesses<br>
+- Segurança Cibernética<br>
+- Arquitetura de Microsserviços<br>
+- Desenvolvimento de APIs escaláveis<br>
+- Automação de Infraestrutura com DevOps
 
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=eduardoh03&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoh03&layout=compact&langs_count=16&theme=radical" />
-</div>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-henrique-sousa-rocha-da-silva-a29a021b4) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=eduardoh03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=eduardoh03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoh03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Snake animation](https://github.com/eduardoh03/eduardoh03/blob/output/github-contribution-grid-snake-dark.svg)
 
-<div>
-<a href="https://www.linkedin.com/in/eduardo-henrique-sousa-rocha-da-silva-a29a021b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://instagram.com/eduardohenrique393" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-  
-### I'm learning ...
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-          
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=eduardoh03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=eduardoh03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=eduardoh03&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### Some of my projects:    
   
   * Fraternitude - Fraternidade em Movimento | [Project](http://fraternitude.herokuapp.com) - [GitHub Repository](https://github.com/Projeto-ONGS/fraternitude)
