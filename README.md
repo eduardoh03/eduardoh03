@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Eduardo Henrique and my nickname is Dudu!
+### My name is Eduardo Henrique!
 
 <div>
 <a href="https://github.com/eduardoh03">
