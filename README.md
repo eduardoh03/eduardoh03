@@ -16,7 +16,8 @@
 ### **BigDataHealth** - Programador Backend<br>
 **Período**: 28/01/24 - Atualmente<br>
 **Descrição**: Desenvolvimento e manutenção de sistemas backend para diversos projetos, utilizando tecnologias como TypeScript (NestJS), Postgres e Redis.<br>
-**Principais responsabilidades**:<br>  - Projetar e implementar APIs RESTful.<br> 
+**Principais responsabilidades**:<br>  
+- Projetar e implementar APIs RESTful.<br> 
 - Integração com bancos de dados relacionais e não relacionais.<br>
 - Desenvolvimento de microsserviços.<br>
 - Colaboração com equipes de frontend e DevOps para entrega contínua.<br><br>
