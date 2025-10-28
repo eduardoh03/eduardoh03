@@ -2,7 +2,7 @@
 - Desenvolvedor Backend com experiência em Python, TypeScript e Java.<br>
 - Atualmente estou aprendendo sobre Segurança Cibernética.<br>
 - Trabalho na **BigDataHealth** como **Programador Backend**, atuando em diversos projetos.<br>
-- Formado em **Engenharia de Software** em 2022.<br>
+- Formado em **Engenharia de Software** em 2023.<br>
 
 ## Experiência Profissional<br>
 ### **Fábrica de Gênios** - Programador Backend<br>
