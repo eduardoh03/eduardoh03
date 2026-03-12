@@ -14,7 +14,7 @@
 - Liderança técnica em projetos-chave, atuando como principal desenvolvedor backend e mentorando outros membros da equipe.<br>
 
 ### **BigDataHealth** - Programador Backend<br>
-**Período**: 28/01/24 - Atualmente<br>
+**Período**: 28/01/24 - 31/12/25<br>
 **Descrição**: Desenvolvimento e manutenção de sistemas backend para diversos projetos, utilizando tecnologias como TypeScript (NestJS), Postgres e Redis.<br>
 **Principais responsabilidades**:<br>  
 - Projetar e implementar APIs RESTful.<br> 
